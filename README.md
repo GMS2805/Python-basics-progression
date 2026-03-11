@@ -1,4 +1,4 @@
-# Python-progression
+# Python-basics-progression
 Practice and progress tracking of python skills
 
 In this repo, work is tracked in the form of Jupyter notebooks related to various topics.
